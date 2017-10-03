@@ -1,1 +1,2 @@
-## console.log("我是github上传的文件");
+## console.log("脦脪脢脟github脡脧麓芦碌脛脦脛录镁");
+## console.log("hello word");
